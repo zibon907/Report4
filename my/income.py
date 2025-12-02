@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-#///Coded By: Pangeran Alvins
+#///Coded By: Fr3nd Zibon
 import os,sys,time,requests
 import subprocess as cadow
 import re

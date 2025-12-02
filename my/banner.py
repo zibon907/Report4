@@ -35,11 +35,11 @@ class banner:
 ---------------------------------+
 ---T-O-O-L-S---W-O-R-D-L-I-S-T---|
 ---------------------------------+"""+red+blue+"""                 
-  # Wordlist Creating 2019       |
-  # Create By Elang X-CoderID    |  
-  # YouTube : Pangeran Alvins    |
-  # WhatsApp : +62822475712**    |
-  # Facebook: Alvins             |
+  # Wordlist Creating 2025      |
+  # Create By Fr3nd Zibon    |  
+  # YouTube : xxxxxxxxxxx    |
+  # WhatsApp : +8801792443393**    |
+  # Facebook: https://www.facebook.com/OG.GY.87            |
 ---------------------------------+"""
 print (blue+'-')*43
         

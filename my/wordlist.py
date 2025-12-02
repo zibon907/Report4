@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # coding=utf-8
-#//Coded By Pangeran Alvins
-'''Mau Ngapain Cok !!
+#//Coded By Fr3nd Zibon
+'''Welcome to my tools !!
 '''
 
 import time,os
